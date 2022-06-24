@@ -20,8 +20,6 @@ Awesome resources for Dogeparty XDP - NFT and other Assets on the Dogecoin Block
 ## Dogeparty History
 
 - [The NFT Timeline](https://thenfttimeline.com/) - Discover the full timeline of the NFT history (WIP). Covering 2011 to 2019 historical assets.
-- [Chasing “invisible” 2014 Counterparty tokens](https://doggfather.medium.com/chasing-invisible-2014-counterparty-tokens-e0916c96c60f)
-  > creating a new Counterparty token a few weeks ago, I was puzzled after checking the issuances tab on xchain.io.
 - [Dogeparty: NFT meta-layer on top of Dogecoin (Part 1  2014-2016)](https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf)
   > Dogeparty is a meta-layer on top of the Dogecoin (DOGE) network for non-fungible token (NFT).
 - [Dogeparty: What has happened since relaunch in fall 2021 (Part 2)](https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080)
@@ -62,6 +60,8 @@ assets/tokens/NFTs
 ## Meta
 - [Content Policy for Dogeparty forums and Dogeparty related chats](https://github.com/DogepartyXDP/Documentation/blob/master/Dogeparty_Content_Policy.md)
 - [Enhanced Asset Info](https://counterparty.io/docs/enhanced_asset_info/) - adding special features to your assets.
+- [Chasing “invisible” 2014 Counterparty tokens](https://doggfather.medium.com/chasing-invisible-2014-counterparty-tokens-e0916c96c60f)
+  > creating a new Counterparty token a few weeks ago, I was puzzled after checking the issuances tab on xchain.io.
 
 ```json
 {
