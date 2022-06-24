@@ -28,11 +28,11 @@ Awesome resources for Dogeparty XDP - NFT and other Assets on the Dogecoin Block
   > Today we are proud to announce the rebooting of the Dogeparty platform! Dogeparty is a smart contract built on top of the Dogecoin (DOGE) network for minting tokens and NFTs.  It was initially launched in August/September 2014.
 
 ## Projects
-- [Rare Doge](https://raredogedirectory.com/) - Rare Doge collecting cards ([Telegram](https://t.me/RareDogeTraders/)) ([Auctions and Giveaways](https://t.me/RareDogeAuctions_Giveaways/))
+- [Rare Doge](https://raredogedirectory.com/) - Rare Doge collecting cards ([Telegram](https://t.me/RareDogeTraders/)) ([Giveaways](https://t.me/RareDogeAuctions_Giveaways/))
   - [Rare Reject Directory](http://rarerejectdirectory.com/) - Art that didn't make it to the Rare Doge official, but worth appreciating ([Telegram](https://t.me/RareRejects/))
 - [Dogermint](https://www.dogermint.com/) - Dogermint tokens
   - [How to Use Dogeparty: A Complete Guide](https://dogermint.com/dogeparty/) 
-- [Space Doges NFT](https://dp.university/spacedoges/) - Community driven Group For Spacedoge NFTs On Dogeparty
+- [Space Doges NFT](https://dp.university/spacedoges/) - Dogeparty University Community Collection ([Telegram](https://t.me/spacedoges))
 - [Dogepunks](http://doge-punks.com/) - NFT 1\1 Limited Release - "digital mashup of Doges and the CryptoPunks" ([Telegram](https://t.me/realdogepunks/))
 - [Doge Pixels](https://dogepixels.io/) ([Telegram](https://t.me/dogepixelschat/))
 - [Dank Doge Club](https://www.dankdogeclub.com/) - An NFT Club for the Dankest of Doges! ([Telegram](https://t.me/raredogeclub/))
@@ -43,13 +43,13 @@ assets/tokens/NFTs
 
 ### Historical Assets
 - [Dogermint](https://dogermint.com/) - These assets were all minted in the month of August, 2014, less than a year after the launch of the Dogecoin blockchain.
-- [Doge World 2014](https://www.littleshibeog.com/dogeworld) - The first and only, ever-evolving community-based world, powered by historical 2014 NFT assets and YOU.
 - [Dogeparty Asset Timeline](https://jpjanssen.com/timeline/dogeparty.html) - from the first asset creation to the first interactive token
 - [NFT Directory](https://medium.com/@jakegallen/dogeparty-directory-88c949b21072) - early tokens currently in circulation
 
 
 ### Upcoming
-- [LittleShibe OG - DOGEWORLD](https://www.littleshibeog.com/dogeworld/)   > The first and only, ever-evolving community-based world, powered by historical 2014 NFT assets and YOU.
+- [Doge World 2014](https://www.littleshibeog.com/dogeworld) 
+  > The first and only, ever-evolving community-based world, powered by historical 2014 NFT assets and YOU.
 - [Rare Doge Wallet](http://raredogewallet.com/) 
 
 ### Inactive
