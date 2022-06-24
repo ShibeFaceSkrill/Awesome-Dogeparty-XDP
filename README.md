@@ -16,6 +16,9 @@ Awesome resources for Dogeparty XDP - NFT and other Assets on the Dogecoin Block
 - **Telegram Shill\Giveaways**: https://t.me/XDPShill/
 
 ## Meta
+- [How to Use Dogeparty: A Complete Guide](https://dogermint.com/dogeparty/)
+- [Top Dogecoin NFT](https://docs.google.com/spreadsheets/d/1K-QILius6sJNX7GDwadAMY8fDNeEobkt1SjI3kOHk9E/) - Dispenser Info 06/2022
+  - [Top NFT Collections on the Dogecoin Blockchain](https://shibeface.finance/dogeparty/top-dogecoin-nft-collections/) 
 - [Dogeparty University](https://dp.university/curriculum) - get the most from your Dogeparty experience
 - [Content Policy for Dogeparty forums and Dogeparty related chats](https://github.com/DogepartyXDP/Documentation/blob/master/Dogeparty_Content_Policy.md)
 - [Enhanced Asset Info](https://counterparty.io/docs/enhanced_asset_info/) - adding special features to your assets.
