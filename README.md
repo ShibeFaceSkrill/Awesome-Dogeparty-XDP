@@ -108,20 +108,21 @@ assets/tokens/NFTs
 - [LittleShibe OG - DOGEWORLD](https://www.littleshibeog.com/dogeworld/) - The first and only, ever-evolving community-based world, powered by historical 2014 NFT assets and YOU.
 
 ### Inactive
-- [Dixel](https://www.takethatnft.com/) a collection of 1000 uniquely generated Doge Party Pixels under DogeCoin Blockchain.
-- [The Great NPCSET](https://thegreatnpcset.com/) an NFT project comprised collectable NFTs of NPCs (Non-Player Characters).
+- [Dixel](https://www.takethatnft.com/) 1000 uniquely generated Doge Party Pixels under DogeCoin Blockchain.
+- [The Great NPCSET](https://thegreatnpcset.com/) - NPCs (Non-Player Characters).
+- [HipDog](https://medium.com/@HIPDOG) woofsome NFTs and also HIPDOG Token.
 
 ## Tools
 - [Dogecoin Map](https://dogecoinmap.com/) - :map: ELONSMAP - Drop Dogecoin and Dogecoin NFTs anywhere to do good!
 - [DogeKord](https://countercord.github.io/DogeKord.html) - DogeKord is a Dogecoin and XDP Asset Verification tool for Discord!
   - [GitHub](https://github.com/CounterCord/CounterCord/)
 - **Emblem Vaults**: (just change Bitcoin to Dogecoin and XCP for XDP)
-  - **Video**: [How to move RARE PEPE cards from XCP to ETH with Emblem Vault](https://youtu.be/S4gNPzLunjA?t=614)
-  - **Text**: [Trading XCP NFTs on Ethereum Virtual Machine (EVM) Networks](https://desktopcommando.medium.com/trading-xcp-nfts-on-ethereum-matic-networks-87a89101fd58)
+  - [How to move RARE PEPE cards from XCP to ETH with Emblem Vault](https://youtu.be/S4gNPzLunjA?t=614) (video)
+  - [Trading XCP NFTs on Ethereum Virtual Machine (EVM) Networks](https://desktopcommando.medium.com/trading-xcp-nfts-on-ethereum-matic-networks-87a89101fd58) (text)
 
 ## Development
-- **GitHub**: https://github.com/DogepartyXDP/
-- **XChain API INFO**: https://dogeparty.net/api/
-- **XChain API**: https://dogeparty.xchain.io/api
+- https://github.com/DogepartyXDP/
+- [XChain API INFO](https://dogeparty.net/api/)
+- [XChain API](https://dogeparty.xchain.io/api)
 - [Dogeparty Federated Node Setup](https://sites.google.com/view/doggfather/other-contributions/dp-node?authuser=0)
 - [Dogeparty Hackathon Telegram](https://t.me/dphackathon)
