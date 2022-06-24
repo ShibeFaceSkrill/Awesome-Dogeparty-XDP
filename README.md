@@ -85,24 +85,27 @@ Awesome resources for Dogeparty XDP - NFT and other Assets on the Dogecoin Block
 
 
 ## Projects
-- [Dogermint](https://www.dogermint.com/) - Dogermint tokens + short guide on how to use Dispensers
 - [Rare Doge](https://raredogedirectory.com/) - Rare Doge collecting cards
   - [Rare Doge Wallet](http://raredogewallet.com/) 
   - [Rare Doge Official Telegram](https://t.me/RareDogeTraders/) - This is a place to discuss and trade Rare Doges on the Dogeparty platform.
   - [RareDoge Auctions and Giveaways Telegram](https://t.me/RareDogeAuctions_Giveaways/)
   - [Rare Reject Directory](http://rarerejectdirectory.com/) - Art that didn't make it to the Rare Doge official, but worth appreciating.
   - [RareRejects Telegram](https://t.me/RareRejects/) - RareDoge Rejects 
-- [Doge Pixels](https://dogepixels.io/)
-  - [Doge Pixels Telegram](https://t.me/dogepixelschat/) 
-- [Doge KVLT](https://dogekvlt.com/) - Like rare doge, but dark.
-  - [Doge Kvlt Conspiracy Telegram](https://t.me/dogekvlt/)
+- [Dogermint](https://www.dogermint.com/) - Dogermint tokens + short guide on how to use Dispensers
 - [Space Doges NFT](https://dp.university/spacedoges/) - Community driven Group For Spacedoge NFTs On Dogeparty
 - [Dogepunks](http://doge-punks.com/) - Quantity 1 NFT 1\1 Limited (Editioned) - "digital mashup of Doges and the CryptoPunks"
   - [Doge Punks Telegram](https://t.me/realdogepunks/)
+- [Doge Pixels](https://dogepixels.io/)
+  - [Doge Pixels Telegram](https://t.me/dogepixelschat/) 
 - [Dank Doge Club Telegram](https://t.me/raredogeclub/) - An NFT Club for the Dankest of Doges!
 assets/tokens/NFTs
 - [Trippy Tokens](https://trippytokens.wordpress.com/) a community-driven directory of psychedelic and trippy art
   - [TrippyTokens Telegram](https://t.me/trippytokens/) - Psychedelic Crypto-Art on Dogeparty
+- [Doge KVLT](https://dogekvlt.com/) - Like rare doge, but dark.
+  - [Doge Kvlt Conspiracy Telegram](https://t.me/dogekvlt/)
+- [ShibeFaceSkrill](https://shibeface.finance) - Cross-chain DeFi, starting with Dogeparty
+  - [ShibeFaceSkrill Telegram](https://t.me/ShibeFaceSkrill)
+  - [ShibeFaceSkrilL Discord](https://discord.gg/56J85Kk32m)
 
 ### Upcoming
 - [LittleShibe OG - DOGEWORLD](https://www.littleshibeog.com/dogeworld/) - The first and only, ever-evolving community-based world, powered by historical 2014 NFT assets and YOU.
