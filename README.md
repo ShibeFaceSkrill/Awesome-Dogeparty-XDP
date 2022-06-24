@@ -5,9 +5,9 @@ Awesome resources for Dogeparty XDP - NFT and other Assets on the Dogecoin Block
 - Website: https://dogeparty.net/
 - Wallets: https://dogeparty.net/wallets/
 - Blockchain Explorer: https://dogeparty.xchain.io/
-- GitHub*: https://github.com/DogepartyXDP/
-- Documentation**: https://github.com/DogepartyXDP/Documentation/
-- Dogeparty Foundation News**: https://dogeparty.net/news/
+- GitHub: https://github.com/DogepartyXDP/
+- Documentation: https://github.com/DogepartyXDP/Documentation/
+- Foundation News: https://dogeparty.net/news/
 - Twitter: https://twitter.com/DogepartyXDP
 - Reddit: https://www.reddit.com/r/xdp/
 - Main Telegram: https://t.me/DogepartyXDP
