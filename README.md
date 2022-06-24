@@ -17,7 +17,7 @@ Awesome resources for Dogeparty XDP - NFT and other Assets on the Dogecoin Block
 
 ## Meta
 - [Dogeparty University](https://dp.university/curriculum) - get the most from your Dogeparty experience
-- [Content Policy](https://github.com/DogepartyXDP/Documentation/blob/master/Dogeparty_Content_Policy.md)
+- [Content Policy for Dogeparty forums and Dogeparty related chats](https://github.com/DogepartyXDP/Documentation/blob/master/Dogeparty_Content_Policy.md)
 - [Enhanced Asset Info](https://counterparty.io/docs/enhanced_asset_info/) - adding special features to your assets.
 
 ```json
