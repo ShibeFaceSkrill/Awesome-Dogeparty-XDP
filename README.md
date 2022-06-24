@@ -34,8 +34,7 @@ Awesome resources for Dogeparty XDP - NFT and other Assets on the Dogecoin Block
 - [NFT Directory](https://medium.com/@jakegallen/dogeparty-directory-88c949b21072) - early tokens currently in circulation
 
 ## Projects
-- [Rare Doge](https://raredogedirectory.com/) - Rare Doge collecting cards ([Telegram](https://t.me/RareDogeTraders/))
-  - [RareDoge Auctions and Giveaways Telegram](https://t.me/RareDogeAuctions_Giveaways/)
+- [Rare Doge](https://raredogedirectory.com/) - Rare Doge collecting cards ([Telegram](https://t.me/RareDogeTraders/)) ([Auctions and Giveaways](https://t.me/RareDogeAuctions_Giveaways/))
   - [Rare Reject Directory](http://rarerejectdirectory.com/) - Art that didn't make it to the Rare Doge official, but worth appreciating ([Telegram](https://t.me/RareRejects/))
 - [Dogermint](https://www.dogermint.com/) - Dogermint tokens
   - [How to Use Dogeparty: A Complete Guide](https://dogermint.com/dogeparty/) 
