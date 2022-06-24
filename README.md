@@ -8,8 +8,8 @@ Awesome resources for Dogeparty XDP - NFT and other Assets on the Dogecoin Block
 - **GitHub**: https://github.com/DogepartyXDP/
 - **Documentation**: https://github.com/DogepartyXDP/Documentation/
 - **Dogeparty Foundation News**: https://dogeparty.net/news/
-- **Twitter: https://twitter.com/DogepartyXDP
-- **Reddit: https://www.reddit.com/r/xdp/
+- **Twitter**: https://twitter.com/DogepartyXDP
+- **Reddit**: https://www.reddit.com/r/xdp/
 - **Main Telegram**: https://t.me/DogepartyXDP
 - **Telegram Shill\Giveaways**: https://t.me/XDPShill
 
