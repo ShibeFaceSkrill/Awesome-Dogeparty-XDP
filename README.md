@@ -8,6 +8,11 @@ Awesome resources for Dogeparty XDP - NFT and other Assets on the Dogecoin Block
 - **GitHub**: https://github.com/DogepartyXDP/
 - **Documentation**: https://github.com/DogepartyXDP/Documentation/
 - **Dogeparty Foundation News**: https://dogeparty.net/news/
+- **Twitter: https://twitter.com/DogepartyXDP
+- **Reddit: https://www.reddit.com/r/xdp/
+- **Main Telegram**: https://t.me/DogepartyXDP
+- **Telegram Shill\Giveaways**: https://t.me/XDPShill
+
 
 ## Social
 - **Twitter**: https://twitter.com/DogepartyXDP/
@@ -125,6 +130,7 @@ assets/tokens/NFTs
 - **Emblem Vaults**: (just change Bitcoin to Dogecoin and XCP for XDP)
   - [How to move RARE PEPE cards from XCP to ETH with Emblem Vault](https://youtu.be/S4gNPzLunjA?t=614) (video)
   - [Trading XCP NFTs on Ethereum Virtual Machine (EVM) Networks](https://desktopcommando.medium.com/trading-xcp-nfts-on-ethereum-matic-networks-87a89101fd58) (text)
+- [EasyAsset](https://easyasset.art/) - Store your NFT art and JSON on the Arweave Permaweb. Upload your art permanently, not on centralized sites like imgur and google.
 
 ## Development
 - https://github.com/DogepartyXDP/
