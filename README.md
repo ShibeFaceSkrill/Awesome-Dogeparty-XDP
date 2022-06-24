@@ -59,9 +59,9 @@ assets/tokens/NFTs
 
 ## Meta
 - [Content Policy for Dogeparty forums and Dogeparty related chats](https://github.com/DogepartyXDP/Documentation/blob/master/Dogeparty_Content_Policy.md)
-- [Enhanced Asset Info](https://counterparty.io/docs/enhanced_asset_info/) - adding special features to your assets.
 - [Chasing “invisible” 2014 Counterparty tokens](https://doggfather.medium.com/chasing-invisible-2014-counterparty-tokens-e0916c96c60f)
   > creating a new Counterparty token a few weeks ago, I was puzzled after checking the issuances tab on xchain.io.
+- [Enhanced Asset Info](https://counterparty.io/docs/enhanced_asset_info/) - adding special features to your assets.
 
 ```json
 {
