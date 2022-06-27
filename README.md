@@ -12,10 +12,11 @@ Awesome resources for Dogeparty XDP - **NFT and other Assets on the Dogecoin Blo
 - GitHub: https://github.com/DogepartyXDP/
 
 ### Social
+- Telegram: https://t.me/DogepartyXDP
+- Forum: https://forums.dogeparty.net/
 - Twitter: https://twitter.com/DogepartyXDP
 - Reddit: https://www.reddit.com/r/xdp/
-- Main Telegram: https://t.me/DogepartyXDP
-- XDP Shill\Giveaways: https://t.me/XDPShill
+- XDP Shill\Giveaways Telegram: https://t.me/XDPShill
 
 ### Learn
 - [Dogeparty University](https://dp.university/curriculum) - get the most from your Dogeparty experience
