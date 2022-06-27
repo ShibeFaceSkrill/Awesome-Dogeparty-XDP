@@ -6,10 +6,12 @@ Awesome resources for Dogeparty XDP - **NFT and other Assets on the Dogecoin Blo
 ## Dogeparty - Main Links
 - Website: https://dogeparty.net/
 - Wallets: https://dogeparty.net/wallets/
-- Blockchain Explorer: https://dogeparty.xchain.io/
-- GitHub: https://github.com/DogepartyXDP/
 - Documentation: https://github.com/DogepartyXDP/Documentation/
+- Blockchain Explorer: https://dogeparty.xchain.io/
 - Foundation News: https://dogeparty.net/news/
+- GitHub: https://github.com/DogepartyXDP/
+
+### Social
 - Twitter: https://twitter.com/DogepartyXDP
 - Reddit: https://www.reddit.com/r/xdp/
 - Main Telegram: https://t.me/DogepartyXDP
@@ -131,9 +133,11 @@ assets/tokens/NFTs
 - [EasyAsset](https://easyasset.art/) - Store your NFT art and JSON on the Arweave Permaweb. Upload your art permanently, not on centralized sites like imgur and google.
 
 ### Development
-- https://github.com/DogepartyXDP/
+- [Dogeparty on GitHub](https://github.com/DogepartyXDP/)
+- [Documentation](https://github.com/DogepartyXDP/Documentation/)
 - [XChain API INFO](https://dogeparty.net/api/)
 - [XChain API](https://dogeparty.xchain.io/api)
+- [XChain Explorer](https://dogeparty.xchain.io/)
 - [Dogeparty Federated Node Setup](https://sites.google.com/view/doggfather/other-contributions/dp-node?authuser=0)
 - [Dogeparty Hackathon Telegram](https://t.me/dphackathon)
 
