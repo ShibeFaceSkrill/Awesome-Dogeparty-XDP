@@ -14,10 +14,12 @@ Awesome resources for Dogeparty XDP - **NFT and other Assets on the Dogecoin Blo
 - Reddit: https://www.reddit.com/r/xdp/
 - Main Telegram: https://t.me/DogepartyXDP
 - XDP Shill\Giveaways: https://t.me/XDPShill
+
+### Learn
 - [Dogeparty University](https://dp.university/curriculum) - get the most from your Dogeparty experience
 - [How to Use Dogeparty: A Complete Guide](https://dogermint.com/dogeparty/)
-- [Top Dogecoin NFT](https://docs.google.com/spreadsheets/d/1K-QILius6sJNX7GDwadAMY8fDNeEobkt1SjI3kOHk9E/) - Dispenser Info 06/2022
-  - [Top NFT Collections on the Dogecoin Blockchain](https://shibeface.finance/dogeparty/top-dogecoin-nft-collections/) 
+- [Top NFT Collections on the Dogecoin Blockchain Article](https://shibeface.finance/dogeparty/top-dogecoin-nft-collections/) 
+  - [Top Dogecoin NFT Workbook](https://docs.google.com/spreadsheets/d/1K-QILius6sJNX7GDwadAMY8fDNeEobkt1SjI3kOHk9E/) - Dispenser Info 06/2022
 
 ## Dogeparty History
 
