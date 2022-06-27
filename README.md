@@ -1,7 +1,7 @@
 # Awesome Dogeparty XDP
 Awesome resources for Dogeparty XDP - **NFT and other Assets on the Dogecoin Blockchain**
 
-![image](https://user-images.githubusercontent.com/95756707/175893429-c8865fd5-5c06-47d3-863a-c5cd8465028a.png)
+<img src="https://user-images.githubusercontent.com/95756707/175893429-c8865fd5-5c06-47d3-863a-c5cd8465028a.png" width="50%" height="50%"/>
 
 ## Dogeparty - Main Links
 - Website: https://dogeparty.net/
@@ -38,8 +38,8 @@ Awesome resources for Dogeparty XDP - **NFT and other Assets on the Dogecoin Blo
 
 ## Projects
 
-![image](https://user-images.githubusercontent.com/95756707/175893927-36e56a87-05b2-4ca7-abb5-3561b3120b2e.png)\
-[Top Dogecoin NFT Collections](https://shibeface.finance/dogeparty/top-dogecoin-nft-collections/)
+<img src="https://user-images.githubusercontent.com/95756707/175893927-36e56a87-05b2-4ca7-abb5-3561b3120b2e.png" width="75%" height="75%"/><br>
+<a href="https://shibeface.finance/dogeparty/top-dogecoin-nft-collections/">Top Dogecoin NFT Collections</a>
 
 - [Rare Doge](https://raredogedirectory.com/) - Rare Doge collecting cards ([Telegram](https://t.me/RareDogeTraders/)) ([Giveaways](https://t.me/RareDogeAuctions_Giveaways/))
   - [Rare Reject Directory](http://rarerejectdirectory.com/) - Art that didn't make it to the Rare Doge official, but worth appreciating ([Telegram](https://t.me/RareRejects/))
@@ -55,8 +55,9 @@ assets/tokens/NFTs
 - [ShibeFaceSkrill](https://shibeface.finance) - Cross-chain DeFi, starting with Dogeparty ([Telegram](https://t.me/ShibeFaceSkrill)) ([Discord](https://discord.gg/56J85Kk32m))
 
 ### Historical Assets
-![image](https://user-images.githubusercontent.com/95756707/175894102-bce3666c-c780-44f6-8a4e-109441b29947.png)\
-[Dogecoin Historical Assets](https://shibeface.finance/dogeparty/top-dogecoin-nft-collections/#historical)
+
+<img src="https://user-images.githubusercontent.com/95756707/175894102-bce3666c-c780-44f6-8a4e-109441b29947.png" width="75%" height="75%"/><br>
+<a href="https://shibeface.finance/dogeparty/top-dogecoin-nft-collections/#historical">Dogecoin Historical Assets</a>
 
 - [Dogermint](https://dogermint.com/) - These assets were all minted in the month of August, 2014, less than a year after the launch of the Dogecoin blockchain.
 - [Dogeparty Asset Timeline](https://jpjanssen.com/timeline/dogeparty.html) - from the first asset creation to the first interactive token
