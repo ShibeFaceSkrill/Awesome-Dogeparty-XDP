@@ -1,6 +1,8 @@
 # Awesome Dogeparty XDP
 Awesome resources for Dogeparty XDP - **NFT and other Assets on the Dogecoin Blockchain**
 
+![image](https://user-images.githubusercontent.com/95756707/175893429-c8865fd5-5c06-47d3-863a-c5cd8465028a.png)
+
 ## Dogeparty - Main Links
 - Website: https://dogeparty.net/
 - Wallets: https://dogeparty.net/wallets/
@@ -19,6 +21,9 @@ Awesome resources for Dogeparty XDP - **NFT and other Assets on the Dogecoin Blo
 
 ## Dogeparty History
 
+![image](https://user-images.githubusercontent.com/95756707/175893633-36ce17b0-4884-41ae-848e-1c97634f83f0.png)\
+[Dogeparty minting activity 2014-2106](https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf)
+
 - [The NFT Timeline](https://thenfttimeline.com/) - Discover the full timeline of the NFT history (WIP). Covering 2011 to 2019 historical assets.
 - [Dogeparty: NFT meta-layer on top of Dogecoin (Part 1  2014-2016)](https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf)
   > Dogeparty is a meta-layer on top of the Dogecoin (DOGE) network for non-fungible token (NFT).
@@ -28,6 +33,10 @@ Awesome resources for Dogeparty XDP - **NFT and other Assets on the Dogecoin Blo
   > Today we are proud to announce the rebooting of the Dogeparty platform! Dogeparty is a smart contract built on top of the Dogecoin (DOGE) network for minting tokens and NFTs.  It was initially launched in August/September 2014.
 
 ## Projects
+
+![image](https://user-images.githubusercontent.com/95756707/175893927-36e56a87-05b2-4ca7-abb5-3561b3120b2e.png)\
+[Top Dogecoin NFT Collections](https://shibeface.finance/dogeparty/top-dogecoin-nft-collections/)
+
 - [Rare Doge](https://raredogedirectory.com/) - Rare Doge collecting cards ([Telegram](https://t.me/RareDogeTraders/)) ([Giveaways](https://t.me/RareDogeAuctions_Giveaways/))
   - [Rare Reject Directory](http://rarerejectdirectory.com/) - Art that didn't make it to the Rare Doge official, but worth appreciating ([Telegram](https://t.me/RareRejects/))
 - [Dogermint](https://www.dogermint.com/) - Dogermint tokens
@@ -42,6 +51,9 @@ assets/tokens/NFTs
 - [ShibeFaceSkrill](https://shibeface.finance) - Cross-chain DeFi, starting with Dogeparty ([Telegram](https://t.me/ShibeFaceSkrill)) ([Discord](https://discord.gg/56J85Kk32m))
 
 ### Historical Assets
+![image](https://user-images.githubusercontent.com/95756707/175894102-bce3666c-c780-44f6-8a4e-109441b29947.png)\
+[Dogecoin Historical Assets](https://shibeface.finance/dogeparty/top-dogecoin-nft-collections/#historical)
+
 - [Dogermint](https://dogermint.com/) - These assets were all minted in the month of August, 2014, less than a year after the launch of the Dogecoin blockchain.
 - [Dogeparty Asset Timeline](https://jpjanssen.com/timeline/dogeparty.html) - from the first asset creation to the first interactive token
 - [NFT Directory](https://medium.com/@jakegallen/dogeparty-directory-88c949b21072) - early tokens currently in circulation
@@ -104,6 +116,7 @@ assets/tokens/NFTs
   "audio": ""
 }
 ```
+
 ### Tools
 - [Dogecoin Map](https://dogecoinmap.com/) - :map: ELONSMAP - Drop Dogecoin and Dogecoin NFTs anywhere to do good!
 - [DogeKord](https://countercord.github.io/DogeKord.html) - DogeKord is a Dogecoin and XDP Asset Verification tool for Discord!
